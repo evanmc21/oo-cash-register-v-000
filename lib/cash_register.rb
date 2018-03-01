@@ -14,3 +14,4 @@ def add_item(title, price, quantity=1)
   end
   self.previous_total = price * quantity
 end
+end
